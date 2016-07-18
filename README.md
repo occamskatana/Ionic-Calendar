@@ -1,3 +1,13 @@
+#Ionic-calendar Directive Fork by John Carter
+
+I forked and made slight modifications to the codebase in order to sync this calendar with arshaw FullCalendar. 
+
+Build currently: Passing
+
+
+
+
+
 # Ionic-Calendar directive
 
 Ionic calendar directive
